@@ -5,7 +5,7 @@ let circuloX; // horizontal
 let circuloY; // vertical
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1000, 1000);
   background(color(100, 0 , 0));
   cor = color(random(0, 255), random(0, 255), random(0, 255));
   
